@@ -19,5 +19,11 @@ I'm an aspiring developer and analyst based in Singapore, and I am passionate in
 
 **Version Control**: `Git`
 
+## Open Source Contributions
+
+Here are some projects that I have made contributions to:
+
+- [Codecademy](https://github.com/Codecademy/docs)
+
 ## 🧠What I am Currently Learning 
 - More on frontend development
