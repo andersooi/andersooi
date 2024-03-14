@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hey there! I'm Anders 👋
 
-<!--
-**andersooi/andersooi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring developer and analyst based in Singapore, and I am passionate in learning about web development and machine learning!
 
-Here are some ideas to get you started:
+- Check out my [LinkedIn](https://www.linkedin.com/in/andersooi/) to connect with me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️Tools 
+**Programming Languages**: `Python` `Java` `JavaScript` `TypeScript`
+
+**Frontend Development**: `Vue.js` `React` `HTML` `CSS` `Tailwind`
+
+**Databases**: `MySQL`
+
+**AI/ML**: `tensorflow` `scikit-learn` `pandas` `seaborn`
+
+**Visualisation Tools**: `Tableau`
+
+**Backend as a Service**: `Firebase`
+
+**Version Control**: `Git`
+
+## 🧠What I am Currently Learning 
+- More on frontend development
